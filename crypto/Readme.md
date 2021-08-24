@@ -1,1 +1,1 @@
-### Write UP Cryptography Categories
+### Cryptography Categories
