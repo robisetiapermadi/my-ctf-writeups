@@ -1,3 +1,6 @@
+### CTF Rasyid - Second Flag
+
+
 ![Soal](https://github.com/robisetiapermadi/my-ctf-writeups/blob/master/crypto/CTFRasyid-Second_Flag/soal.png?raw=true)
 
 Dibersi sebuah teks yang sudah dienkripsi :
